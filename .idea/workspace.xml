@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f900dc52-5a65-4f45-8e47-582be93c1765" name="Changes" comment="20230611">
-      <change afterPath="$PROJECT_DIR$/S_3_correctAnswer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S_4_myAnswer/Main.java" afterDir="false" />
+    <list default="true" id="f900dc52-5a65-4f45-8e47-582be93c1765" name="Changes" comment="20230620">
+      <change afterPath="$PROJECT_DIR$/Practice_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_5_authorsAnswer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_5_myans/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_5_myanswer/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +111,9 @@
       <workItem from="1685966388671" duration="4422000" />
       <workItem from="1686222960915" duration="4569000" />
       <workItem from="1686491376213" duration="4342000" />
-      <workItem from="1687259976995" duration="4544000" />
+      <workItem from="1687259976995" duration="5517000" />
+      <workItem from="1688191787674" duration="8953000" />
+      <workItem from="1688280416849" duration="6402000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1685823795499</created>
@@ -153,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686494984355</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20230620">
+      <created>1687264752276</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687264752277</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +187,7 @@
     <MESSAGE value="20230605" />
     <MESSAGE value="20230608" />
     <MESSAGE value="20230611" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230611" />
+    <MESSAGE value="20230620" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230620" />
   </component>
 </project>
